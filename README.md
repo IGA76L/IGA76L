@@ -1,4 +1,5 @@
-beginner in Python, willing to learn other programming languages
+beginner in Python, willing to learn other programming languages.
+
 I'm looking to learn programming and apply my skills in various projects
 
 
